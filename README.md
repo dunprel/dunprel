@@ -1,4 +1,5 @@
 
+<body background="white">
 <h1 align="center">Hi 👋, I'm Dunkwu Precious but you can call me Dunprel.</h1>
 <h3 align="center">I am a Full-stack Software Engineer specializing in Front-end Development. I am a self-motivated and results-oriented individual with a knack for developing user-friendly and industry-standard software. I have experience developing, maintaining, testing, and debugging software applications.</h3>
 
@@ -35,3 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dunprel&show_icons=true&locale=en&layout=compact" alt="dunprel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dunprel&show_icons=true&locale=en" alt="dunprel" /></p>
+
+</body>
